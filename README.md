@@ -32,9 +32,3 @@ I am currently looking for opportunities where I can apply my development skills
 - Speak slow + clear
 - Pause after each paragraph
 - Maintain slight smile + eye contact
-
-- ❌ Avoid:
-- Rushing
-- Memorized robotic tone.
-Looking down continuously
-
