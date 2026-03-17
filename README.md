@@ -2,8 +2,8 @@
 
 ## Tell Me About Yourself
 1. Structured & lengthy
-Good morning/afternoon sir/ma’am. 
-I am Vansh , and I belong to Delhi. I am currently a Pre-Final Year student pursuing B.Tech in Computer Science. and engineering specialized with artificial intelligence From G.l Bajaj Institute of technology and management.
+  Good morning/afternoon sir/ma’am. 
+  I am Vansh , and I belong to Delhi. I am currently a Pre-Final Year student pursuing B.Tech in Computer Science. and engineering specialized with      artificial intelligence From G.l Bajaj Institute of technology and management.
 
 I have strong technical skills in C++, which I use for problem-solving and understanding core programming concepts. For development, I work with the MERN  stack, where I build full-stack web applications. I am particularly interested in software development and building scalable systems. I also explore AI-integrated development using tools like Cursor AI and Claude to enhance productivity and build smarter solutions. 
 
@@ -27,7 +27,7 @@ Additionally, I explore AI-assisted development using tools like Cursor AI and C
 I am currently looking for opportunities where I can apply my development skills, contribute to real-world projects, and continue growing as a software engineer.
 
 
-##Key tips
+## Key tips
 - ✅ While Speaking:
 - Speak slow + clear
 - Pause after each paragraph
