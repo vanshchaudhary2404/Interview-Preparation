@@ -1,4 +1,4 @@
-🎯 “Tell me about your CureID Project” (STAR Method – Interview Ready)
+# 🎯 “Tell me about your CureID Project” (STAR Method – Interview Ready)
 
 S (Situation):
 During my research and discussions around emergency healthcare systems, I realized that in many hospitals, especially during critical situations, a lot of time is wasted in identifying patients and retrieving their medical history. This delay can directly impact treatment decisions and patient outcomes.
