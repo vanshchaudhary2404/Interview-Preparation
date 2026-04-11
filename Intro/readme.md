@@ -1,5 +1,5 @@
 ## INTRODUCTION
-Good morning/afternoon sir/ma’am. 
+Good morning/afternoon sir/ma’am. <br>
 I am Vansh Kumar , and I belong to Delhi. I am currently a Pre-Final Year student pursuing B.Tech in Computer Science. and engineering specialized with artificial intelligence From G.l Bajaj Institute of technology and management.
 
 Talking about my technical skills, I have a strong foundation in C++, which I use for problem-solving and understanding core programming concepts. For development, I work with the MERN stack, where I build full-stack web applications. 
