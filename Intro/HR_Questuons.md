@@ -30,96 +30,96 @@ Weakness:
 
 “I bring strong fundamentals, practical project experience, and a learning mindset. I am not just focused on coding but also on solving real problems, which I believe adds value to the team.”
 
-🔹 8. Challenging situation
+## 🔹 8. Challenging situation <br>
 
 “During one of my projects, I faced issues integrating frontend with backend. Initially, things were not working properly, but I broke the problem into smaller parts, debugged step by step, and solved it. It improved my problem-solving and patience.”
 
-🔹 9. How do you prioritize tasks?
+## 🔹 9. How do you prioritize tasks? <br>
 
 “I prioritize based on deadlines and importance. I break tasks into smaller steps and focus on completing high-impact tasks first.”
 
-🔹 10. What motivates you?
+## 🔹 10. What motivates you? <br>
 
 “I am motivated by learning new things and seeing my work turn into a real product that people can use.”
 
-🔹 Technical Background
-🔹 11. How do you stay updated?
+# 🔹 Technical Background
+## 🔹 11. How do you stay updated? <br>
 
 “I follow developer communities, watch tutorials, read documentation, and work on projects to apply what I learn.”
 
-🔹 12. Project discussion
+## 🔹 12. Project discussion <br>
 
 “I worked on a HealthID system where patient data is linked with RFID. My role included frontend development and integrating backend APIs. It helped solve real-life emergency problems.”
 
-🔹 13. Applying knowledge
+## 🔹 13. Applying knowledge <br>
 
 “I apply concepts by building projects. For example, I used databases, APIs, and authentication systems in real applications.”
 
-🔹 14. Programming languages
+## 🔹 14. Programming languages <br>
 
 “I am comfortable with C++, JavaScript, and basics of web technologies. I have used them in DSA and full-stack projects.”
 
-🔹 Teamwork & Leadership
-🔹 15. Teamwork example
+# 🔹 Teamwork & Leadership
+## 🔹 15. Teamwork example <br>
 
 “In my projects, we divided tasks based on strengths and maintained communication regularly, which helped us complete work efficiently.”
 
-🔹 16. Leadership
+## 🔹 16. Leadership <br>
 
 “Yes, I led a small team in a project. I learned how to manage tasks, support teammates, and take responsibility.”
 
-🔹 17. Conflict handling
+## 🔹 17. Conflict handling <br>
 
 “I listen to all perspectives and try to find a solution that benefits the project rather than focusing on personal opinions.”
 
-🔹 18. Cross-team collaboration
+## 🔹 18. Cross-team collaboration <br>
 
 “I ensure clear communication, avoid assumptions, and confirm understanding to avoid mistakes.”
 
-🔹 Adaptability & Problem Solving
-🔹 19. Learn something quickly
+# 🔹 Adaptability & Problem Solving
+## 🔹 19. Learn something quickly <br>
 
 “I once had to learn Firebase quickly for a project. I focused on documentation and built small features first to understand it.”
 
-🔹 20. Handling stress
+## 🔹 20. Handling stress <br>
 
 “I stay calm, break the problem into smaller parts, and focus step by step instead of panicking.”
 
-🔹 21. When stuck
+## 🔹 21. When stuck <br>
 
 “I first try to solve it myself, then refer to documentation or resources, and if needed, ask for help.”
 
-🔹 22. Adapting to change
+## 🔹 22. Adapting to change <br>
 
 “When project requirements changed, I adjusted my approach and updated the solution accordingly.”
 
-🔹 Career Goals
-🔹 23. Career goals
+#🔹 Career Goals
+## 🔹 23. Career goals <br>
 
 “My goal is to become a strong software engineer and work on impactful projects.”
 
-🔹 24. Skills to develop
+## 🔹 24. Skills to develop <br>
 
 “I want to improve in system design, backend development, and AI integration.”
 
-🔹 25. Success definition
+## 🔹 25. Success definition <br>
 
 “For me, success means continuous growth, learning, and delivering meaningful work.”
 
-🔹 26. Relocation
+## 🔹 26. Relocation <br>
 
 “Yes, I am open to relocation and new environments.”
 
-🔹 Culture Fit
-🔹 27. Work-life balance
+# 🔹 Culture Fit
+## 🔹 27. Work-life balance <br>
 
 “I manage my time properly and ensure productivity during work hours.”
 
-🔹 28. Work environment
+## 🔹 28. Work environment <br>
 
 “I prefer a collaborative and learning-focused environment.”
 
-🔹 29. Handling criticism
+## 🔹 29. Handling criticism <br>
 
 “I take it positively and use it to improve myself.”
 
