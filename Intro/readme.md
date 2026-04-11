@@ -11,6 +11,6 @@ I have also built WanderLust, a full-stack accommodation booking platform inspir
 
 Additionally, my project CuraID was recognized among the top 40 teams out of 300 in a hackathon, which gave me valuable experience in problem-solving, teamwork, and building under pressure.
 
-Apart from technical work, my hobbies include playing cricket, and I also enjoy esports and story-based games, which help me stay engaged and improve strategic thinking.
+Apart from technical work, I like playing cricket, and I also enjoy esports and story-based games, which help me stay engaged and improve strategic thinking.
 
 I am currently looking for opportunities where I can apply my development skills, contribute to real-world projects, and continue growing as a software engineer.
